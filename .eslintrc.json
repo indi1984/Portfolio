@@ -7,12 +7,12 @@
     },
     "extends": "google",
     "overrides": [],
-    "plugins": [
-        "ejs"
-    ],
     "parserOptions": {
         "ecmaVersion": "latest"
     },
+        "plugins": [
+            "ejs"
+        ],
     "rules": {
         "max-len": [
             "error",
