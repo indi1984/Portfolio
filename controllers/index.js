@@ -1,5 +1,4 @@
 
-
 module.exports.renderIndex = (req, res) => {
-  res.render('/',);
+  res.render('/', {index});
 };
