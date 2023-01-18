@@ -1,0 +1,9 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Kevin Harp's Web Dev Portfolio",
+  "main": "index.js",
+  "author": "Kevin Harp <kharp1984@gmail.com>",
+  "license": "MIT",
+  "private": false
+}

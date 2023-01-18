@@ -1,0 +1,26 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true,
+        "node": true
+    },
+    "extends": "google",
+    "overrides": [],
+    "plugins": [
+        "ejs"
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    },
+    "rules": {
+        "max-len": [
+            "error",
+            {
+                "code": 160
+            }
+        ],
+        "require-jsdoc": "off",
+        "new-cap": "off"
+    }
+}
