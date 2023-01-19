@@ -10,9 +10,6 @@
     "parserOptions": {
         "ecmaVersion": "latest"
     },
-        "plugins": [
-            "ejs"
-        ],
     "rules": {
         "max-len": [
             "error",
